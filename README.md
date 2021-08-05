@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Amlike-Tz/Amlike-Tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![]{https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff}
+
+![]{https://github-readme-stats.vercel.app/api?username=Amlike-Tz&count_private=true&show_icons=true&theme=radical}
+
+![]{https://github-readme-stats.vercel.app/api/top-langs/?username=Amlike-Tz&show_icons=true&theme=radical}
+
