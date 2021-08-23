@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://camo.githubusercontent.com/49c393ce9a15f1aae091b5751ce09c84134aea0ed7a4f9b909b4f26d43deb6a3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d547269706c65486174)
+![](https://camo.githubusercontent.com/)
 ![](https://img.shields.io/badge/-cplusplus-e34f26?logo=html5&logoColor=fff)
 
 ![](https://github-readme-stats.vercel.app/api?username=Amlike-Tz&count_private=true&show_icons=true&theme=radical)
